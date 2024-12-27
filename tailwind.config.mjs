@@ -8,8 +8,9 @@ export default {
                 dark: "#2E2F34",
                 light: "#EBEBEB",
                 primary: "#4FA1E2",
-            },
-        },
+                secondary: "#3C3E47"
+            }
+        }
     },
-    plugins: [],
+    plugins: []
 };
